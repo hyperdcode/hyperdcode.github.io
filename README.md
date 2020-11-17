@@ -1,4 +1,3 @@
-# SpaceCoder01.github.
 # BlogDavid
 > Estes es mi primer readme hoy les vengo a explicar que esto consiste en: 
 > Comentar todo el proyecto de tal forma que puedan saber que has hecho y
