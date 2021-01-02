@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+html{
+  font-size: 62.5%;
+}
+/* Estilos NAVBAR */
+.max-width {
+  max-width: 1300px;
+  padding: 0 80px;
+  margin: auto;
+}
+.navbar{
+  position: fixed;
+  width: 100%;
+  padding: 15px 0;
+  background-color: #0f0f0f; 
+  font-family: 'Roboto', sans-serif; 
+  border-bottom: 3px solid rgba(0,0,0,0.5);
+}
+.navbar .max-width{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar .logo a{
+  font-size: 3.5rem;
+  color: #fff;
+  font-weight: 600;
+}
+.navbar .logo a span{
+  color: crimson;
+}
+.navbar .menu li{
+  list-style: none;
+  display: inline-block;
+  
+}
+.navbar .menu li a{
+  color:#fff;
+  font-size: 1.7rem;
+  font-weight: 300;
+  margin-left: 30px;
+  transition: color 0.3s ease;
+}
+.navbar .menu li a:hover{
+  color: crimson;
+}
+/* Estilos HOME */
+.home{ 
+  background: url(images/img1.jpg) no-repeat center;
+  display: flex;
+  height: 100vh;
+  color: #fff;
+  min-height: 500px;
+  font-family: 'Roboto',sans-serif;
+}
+.home .max-width{
+  margin: auto 0 auto 40px;
+}
+.home .home-content .text-1{
+  font-size: 2.7rem;
+}
+.home .home-content .text-2{
+  font-size: 7.5rem;
+  font-weight: 600;
+  margin-left: -3px;
+}
+.home .home-content .text-3{
+  font-size: 4.3rem;
+  font-weight: 500;
+  margin: 5px 0;
+}
+.home .home-content .text-3 span{
+  color: crimson; 
+}
