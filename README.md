@@ -1,22 +1,64 @@
-# README de David
-> Estes es mi primer readme hoy les vengo a explicar que esto consiste en: 
-> Comentar todo el proyecto de tal forma que puedan saber que has hecho y
+# README de Hyperdcode
+>Comando para clonar repositorio
 
-### Darte a Conocer
-# Primer Paso
-Escribe de fal forma que se te pueda entender bien lo que escribes y de forma
-&hearts;
+`$ git clone url`
 
-* Disponible para todas las edades
-* Identar el codigo correctamente
-* Ultima linea
+<hr> 
 
-<img src="https://images.pexels.com/photos/3018825/pexels-photo-3018825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="navidad" width="300px">
+## Resumen:
+> La pagina es una pagina de prueba de GITHUB en la que hay pocas cosas pero tiene un toque moderno y compacto
 
-FIN1. 
-<ul>
-<li>Uno</li>
-<li>Dos</li>
-<li>Tres</li>
-<li>Cuatro</li>
-</ul>
+> Para ir a la pagina entra en este link:
+Para entrar a mi página pincha [aqui](https://hyperdcode.github.io/ "Heading link")
+
+## Header
+Los colores que he usado han sido 
+> (Background) Hexadecimal: #0f0f0f
+> (Letra) Hexadecimal: #fff
+
+```html
+<nav class="navbar">
+  <div class="max-width">
+    <div class="logo">
+      <a href="#">Hyper<span>dcode.</span></a>
+    </div>
+    <ul class="menu">
+      <li><a href="#">Home</a></li>
+      <li><a href="#">FaQ</a></li>
+      <li><a href="#">Login</a></li>
+      <li><a href="#">Contacto</a></li>
+      <li><a href="#">Nosotros</a></li>
+    </ul> 
+  </div>
+</nav>
+```
+<hr> 
+
+## Section
+El font family que le añadi fue el Roboto, sans serif.
+> Link:
+https://fonts.googleapis.com/css2?family=Roboto&display=swap
+
+Tambien añadi una libreria de cdnjs para la animación del typeo.
+> Link:
+ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js
+### Images
+
+Las Imagenes fueron sacadas de:
+> www.pexels.com
+<hr>
+<br>
+
+>## JAVASCRIPT
+Estas son las lineas de Javascript utilizadas :
+```javascript
+var typed = new Typed(".typing", {
+  strings: ["Cracks", "Fieras"],
+  typeSpeed: 70,
+  backSpeed: 70,
+  loop: true
+});
+```
+
+
+> ##### Hecho por (Hyperdcode) gracias por pasarte por aqui
