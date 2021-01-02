@@ -14,6 +14,7 @@ Para entrar a mi página pincha [aqui](https://hyperdcode.github.io/ "Heading li
 ## Header
 Los colores que he usado han sido 
 > (Background) Hexadecimal: #0f0f0f
+
 > (Letra) Hexadecimal: #fff
 
 ```html
