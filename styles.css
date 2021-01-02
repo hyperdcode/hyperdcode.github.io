@@ -70,8 +70,12 @@ html{
   font-weight: 600;
   margin-left: -3px;
 }
+.home .home-content .text-2 span{
+  font-size: 3.2rem;
+  font-family: monospace;
+}
 .home .home-content .text-3{
-  font-size: 4.3rem;
+  font-size: 4rem;
   font-weight: 500;
   margin: 5px 0;
 }
