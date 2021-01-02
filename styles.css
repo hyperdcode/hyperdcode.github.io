@@ -33,7 +33,7 @@ html{
   font-weight: 600;
 }
 .navbar .logo a span{
-  color: crimson;
+  color: #16c79a;
 }
 .navbar .menu li{
   list-style: none;
@@ -48,7 +48,7 @@ html{
   transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-  color: crimson;
+  color: #01c5c4;
 }
 /* Estilos HOME */
 .home{ 
@@ -76,5 +76,5 @@ html{
   margin: 5px 0;
 }
 .home .home-content .text-3 span{
-  color: crimson; 
+  color: #16c79a; 
 }
